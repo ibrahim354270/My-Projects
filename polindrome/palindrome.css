@@ -1,0 +1,46 @@
+button{
+    color:blue;
+    background-color: yellow;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 3px;
+          
+  }
+
+  button:hover{
+    background-color: blue;
+    color: yellow;
+  }
+
+  input{
+    border-radius: 5px;
+    padding: 2px;
+    background-color: whitesmoke;
+  }
+
+  div{
+   background-color: rgb(223, 222, 216);
+   padding: 20px;
+   margin: 10px;
+   border-radius: 5px;
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+  }
+
+ 
+ h3{
+  background-color: rgb(223, 222, 216);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-flex;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+   
+ } 
+  
+  
+   
